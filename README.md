@@ -15,3 +15,4 @@ Using Train_data_Print() to show your train data in 3D and Test_data_Print() for
 If you want to analyze data in four dimensions or more, just modify the parameters
 
 For the test data, the effect of the different Minkowski values and K values is as follows
+![image](https://github.com/wsmitpwtind/KNN-example-with-Minkowski-Distance/blob/main/K_value.png)
